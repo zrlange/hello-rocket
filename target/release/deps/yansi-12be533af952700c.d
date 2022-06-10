@@ -1,0 +1,12 @@
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/yansi-12be533af952700c.rmeta: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs
+
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/libyansi-12be533af952700c.rlib: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs
+
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/yansi-12be533af952700c.d: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs
+
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs:

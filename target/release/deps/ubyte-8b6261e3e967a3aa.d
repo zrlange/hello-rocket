@@ -1,0 +1,11 @@
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/ubyte-8b6261e3e967a3aa.rmeta: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/arithmetic.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/byte_unit.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/parse.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/ser_de.rs
+
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/libubyte-8b6261e3e967a3aa.rlib: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/arithmetic.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/byte_unit.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/parse.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/ser_de.rs
+
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/ubyte-8b6261e3e967a3aa.d: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/arithmetic.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/byte_unit.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/parse.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/ser_de.rs
+
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/lib.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/arithmetic.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/byte_unit.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/parse.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/ubyte-0.10.2/src/ser_de.rs:

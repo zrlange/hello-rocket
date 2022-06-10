@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/build/typenum-4f1be6a39f701f26/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/build/typenum-4f1be6a39f701f26/out/op.rs

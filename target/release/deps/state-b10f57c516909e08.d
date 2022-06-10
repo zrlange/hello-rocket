@@ -1,0 +1,12 @@
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/state-b10f57c516909e08.rmeta: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/libstate-b10f57c516909e08.rlib: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/state-b10f57c516909e08.d: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs:

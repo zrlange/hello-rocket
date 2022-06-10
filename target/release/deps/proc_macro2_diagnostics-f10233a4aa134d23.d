@@ -1,0 +1,10 @@
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/proc_macro2_diagnostics-f10233a4aa134d23.rmeta: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/ext.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/libproc_macro2_diagnostics-f10233a4aa134d23.rlib: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/ext.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/proc_macro2_diagnostics-f10233a4aa134d23.d: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/ext.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/lib.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/ext.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/line.rs:

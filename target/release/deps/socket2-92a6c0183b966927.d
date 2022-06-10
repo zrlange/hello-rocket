@@ -1,0 +1,11 @@
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/socket2-92a6c0183b966927.rmeta: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/sockaddr.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/socket.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/sockref.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/sys/unix.rs
+
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/libsocket2-92a6c0183b966927.rlib: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/sockaddr.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/socket.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/sockref.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/sys/unix.rs
+
+/Users/zacharylange/Dropbox/GitHub/hello-rocket/target/release/deps/socket2-92a6c0183b966927.d: /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/lib.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/sockaddr.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/socket.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/sockref.rs /Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/sys/unix.rs
+
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/lib.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/sockaddr.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/socket.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/sockref.rs:
+/Users/zacharylange/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.4/src/sys/unix.rs:
