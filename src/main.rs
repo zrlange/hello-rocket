@@ -1,11 +1,12 @@
-#[macro_use] extern crate rocket;
+#[macro_use]
+extern crate rocket;
 
-#[get("/hello/<name>/<age>")]
-fn hello(name: &str, age: u8) -> String {
-  format!("Hello, {} year old named {}!", age, name)
+#[get("/")]
+fn index() -> &'static str {
+    "Hello, world!"
 }
 
 #[launch]
 fn rocket() -> _ {
-  rocket::build().mount("/", routes![hello])
+    rocket::build().mount("/", routes![index])
 }
